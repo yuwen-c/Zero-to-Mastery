@@ -7,6 +7,11 @@ https://css-tricks.com/almanac/
 https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
   - find color combination, rgb numbers.
   
+- converting colors.
+https://convertingcolors.com/hex-color-5F93E8.html
+  - search a color code on it and it will give you some useful information,  
+  such as Complementary. Analogous. Split Complementary.
+  
 - google fonts
 https://fonts.google.com/
   - pick fonts and get links.
