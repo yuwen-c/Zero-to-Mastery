@@ -20,5 +20,5 @@ https://fonts.google.com/
 https://caniuse.com/
   - to see if the propersy is supported by browsers.
   
--prefix
+- prefix
 http://shouldiprefix.com/
