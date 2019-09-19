@@ -28,3 +28,10 @@ https://unsplash.com/
 
 - CSS animation    
 https://daneden.github.io/animate.css/
+
+- free templates:   
+  - https://cruip.com/ (the best)
+  - https://mdbootstrap.com/freebies/
+  - http://mashup-template.com/templates.html
+  - https://startbootstrap.com/template-categories/all/
+  - https://www.creative-tim.com/
