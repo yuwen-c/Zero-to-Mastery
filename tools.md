@@ -25,3 +25,6 @@ http://shouldiprefix.com/
 
 - free photos source
 https://unsplash.com/
+
+- CSS animation   
+https://daneden.github.io/animate.css/
