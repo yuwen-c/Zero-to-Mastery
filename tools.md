@@ -35,3 +35,6 @@ https://daneden.github.io/animate.css/
   - http://mashup-template.com/templates.html
   - https://startbootstrap.com/template-categories/all/
   - https://www.creative-tim.com/
+  
+- How To Create Shiny CSS Buttons
+https://paulund.co.uk/how-to-create-shiny-css-buttons
