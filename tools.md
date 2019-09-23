@@ -38,3 +38,9 @@ https://daneden.github.io/animate.css/
   
 - How To Create Shiny CSS Buttons    
 https://paulund.co.uk/how-to-create-shiny-css-buttons
+
+- light colors, to replace white     
+https://encycolorpedia.com/f5f5f6
+
+
+
