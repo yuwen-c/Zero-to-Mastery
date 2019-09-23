@@ -42,5 +42,14 @@ https://paulund.co.uk/how-to-create-shiny-css-buttons
 - light colors, to replace the white color    
 https://encycolorpedia.com/f5f5f6
 
+- resource, template, elements, fonts, lot of things.     
+https://interfacer.xyz/
+
+
+
+
+
+
+
 
 
