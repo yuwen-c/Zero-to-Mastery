@@ -38,4 +38,4 @@ var total = mutiply(4, 3);
 alert(total);
 ```
 - a, b: parameters.
-- 4, 3: argumentes.
+- 4, 3: arguments.
