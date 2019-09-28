@@ -26,6 +26,8 @@ function multiply (a, b){
 }
 ```
 - return is the final way to end a function, the program exits.
+
+## functions are variables
 - in JS, functions are variables
 ```
 function multiply (a, b){
@@ -35,3 +37,5 @@ function multiply (a, b){
 var total = mutiply(4, 3);
 alert(total);
 ```
+- a, b: parameters.
+- 4, 3: argumentes.
