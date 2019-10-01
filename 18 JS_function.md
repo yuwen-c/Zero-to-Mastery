@@ -39,3 +39,20 @@ alert(total);
 ```
 - a, b: parameters.
 - 4, 3: arguments.
+
+
+
+## callback function
+```
+button.addEventListener("click", buttonAdd); 
+input.addEventListener("keydown", enterAdd);
+```
+- This code in TODO LIST (add an new item to the list) uses "callback function".
+- It means when the "JS engine" engine read this line, we have not need to execute it yet.   
+the function will be execute until the "events" (click, keydown) happen.
+
+
+
+
+
+
