@@ -1,0 +1,20 @@
+## postgreSQL 
+
+### basic commands
+- start
+```
+$ brew services start postgresql
+```
+- stop
+```
+$ brew services stop postgresql
+```
+- create a database
+```
+$ createdb 'DatabaseName'
+```
+- connect to it
+```
+$ psql 'DatabaseName'
+```
+
