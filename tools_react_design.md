@@ -1,3 +1,6 @@
+## CSS3 pattern gallery
+https://leaverou.github.io/css3patterns/
+
 ##  react + D3, visualization
 https://vx-demo.now.sh/gallery
 
