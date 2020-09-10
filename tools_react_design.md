@@ -23,3 +23,6 @@ https://react-bootstrap.github.io/getting-started/introduction/
 - import CSS in ```index.js```
   - add other css below
 - import certain component
+
+## react component with pure CSS
+https://bumbag.style/components/dropdown-menu/?fbclid=IwAR2_ePjVOkWeZGtXM9xORM0m7C-K5ADaJ4XPiRh-uKnXtWhM_ENUIwRzwww
