@@ -4,5 +4,56 @@
 # tutorial in egghead (need registration with email)
 - https://next.egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd
 
-# some example code
-- 
+
+# concepts
+## <DragDropContext>
+
+
+## <Droppable>
+
+## <Draggable>
+
+
+
+# some examples 
+
+## 1. Simple vertical list - https://codesandbox.io/s/k260nyxq9v
+(from here: official github: https://github.com/atlassian/react-beautiful-dnd/blob/HEAD/docs/about/examples.md)
+
+### 1. structure
+- put everything in ```index.js```
+- functions, data... out side of App class
+- only define ```onDragEnd``` function in App, and is the simplest one. (call reorder function out side of App)
+
+### 1. style
+- define style of list and item with 2 functions outside of App
+- in that DOM, use inline style to call the functions.
+
+## 2. react-beautiful-dnd tutorial - https://codesandbox.io/s/9z7qwmmr7r
+
+### 2. structure
+- context: index.js
+- droppable: column.js
+- draggable: task.js
+- onDragEnd function: more details, since it involves more complicate actions. (3 columns)
+
+### 2. style
+- install styled components in each js file
+- pass props to styled components
+
+## 3. sb's code on stackoverflow
+- https://codesandbox.io/s/react-beautiful-dnd-tutorial-uw8nc?fontsize=14
+
+### 3. structure:
+- he doesn't use class, instead he uses function component with hooks.
+(seems havn't done)
+
+
+
+
+
+
+
+
+
+
