@@ -7,9 +7,60 @@
 
 # concepts
 ## <DragDropContext>
+- the background of all drags and drops happen.
+- has 3 callback functions, onDragStart, onDrag...???, onDragEnd=> MUST
+- you have to define your own ```onDragEnd```, what will happen when a draggable arrives.
+- in my world time, the most basic version is to change order of timezone. => reorder function
+```
+reorder = (list, startIndex, endIndex) => {
+  const result = Array.from(list);
+  const [removed] = result.splice(startIndex, 1);
+  result.splice(endIndex, 0, removed);
 
+  return result;
+};
+```
+- the DragEnd function has ```result``` parameter.
+```
+onDragEnd = (result) => {
+    // dropped outside the list
+    if (!result.destination) {
+      return;
+    }
+
+    const items = this.reorder(
+      this.state.items,
+      result.source.index,
+      result.destination.index
+    );
+
+    this.setState({
+      items
+    });
+  }
+```
+- use ```<DragDropContext> to wrap your columns and give the function.
+```
+<DragDropContext
+onDragEnd={this.onDragEnd}
+>
+...// columns
+</DragDropContext>
+```
 
 ## <Droppable>
+- in the column.js, wrap the dnd area with <Droppable/>, and assign the id
+```
+<Droppable
+  droppableId="droppable">
+...//area
+</Droppable>    
+```
+- Droppable should return a function???, and this function has ```provided``` parameter.     
+***IMPORTANT ONE:*** 
+
+
+
 
 ## <Draggable>
 
