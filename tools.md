@@ -52,5 +52,16 @@ https://codepen.io/rafaelcastrocouto
 
 
 
+## Github README.md does not allow CSS
+- https://stackoverflow.com/questions/51956361/custom-css-file-for-readme-md-in-a-github-repo
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
 
+<h2>
+    <img src="https://placehold.it/15/f03c15/000000?text=+" alt="Dieta example" width="600px" />
+</h2>
+
+
+## emoji 
+- https://www.emojiall.com/zh-hant/all-emojis
