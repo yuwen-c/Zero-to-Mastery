@@ -50,6 +50,9 @@ https://interfacer.xyz/
 https://codepen.io/rafaelcastrocouto
 
 
+## svg
+- https://holasvg.com/icons/
+
 
 
 ## Github README.md does not allow CSS
@@ -59,7 +62,7 @@ https://codepen.io/rafaelcastrocouto
 
 
 <h2>
-    <img src="https://placehold.it/15/f03c15/000000?text=+" alt="Dieta example" width="600px" />
+    <img src="https://placehold.it/15/f03c15/000000?text=+" alt="Dieta example" width="300px" />
 </h2>
 
 
