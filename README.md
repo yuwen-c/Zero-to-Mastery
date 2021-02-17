@@ -1,3 +1,4 @@
 # Zero-to-Mastery
 
-The complete web developer in 2019
+- my notes from [The Complete Web Developer: Zero-to-Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+ 
